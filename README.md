@@ -1,1 +1,2 @@
 # mac
+pythob django project
